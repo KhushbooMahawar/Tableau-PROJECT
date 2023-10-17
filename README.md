@@ -1,1 +1,3 @@
 # Tableau-PROJECT
+
+The project focused on building a machine learning model to predict rainfall in Sydney using historical weather data. After performing data preprocessing and evaluating different classification models, the logistic regression model emerged as the top performer, demonstrating higher accuracy compared to other models. The logistic regression model's ability to capture complex feature interactions and its ensemble nature contributed to its superior performance in rainfall prediction. The selected model showed potential in providing accurate forecasts of rainfall, which would greatly enhance the weather forecasting capabilities of "The Daily Buzz" newspaper.
